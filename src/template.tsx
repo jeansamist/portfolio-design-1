@@ -4,7 +4,7 @@ export default function Template({
   children,
   Head,
   Body,
-  Script
+  Script,
 }: TemplateProps) {
   return (
     <html lang="en">
@@ -16,7 +16,6 @@ export default function Template({
 
       <Body>
         {children}
-
         <Script />
       </Body>
     </html>
