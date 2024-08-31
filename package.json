@@ -15,8 +15,7 @@
     "clsx": "^2.1.1",
     "framer-motion": "^11.3.31",
     "lottie-react": "^2.4.0",
-    "prop-types": "^15.8.1",
-    "rasengan": "1.0.0-beta.39",
+    "rasengan": "1.0.0-beta.43",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
     "tailwind-merge": "^2.5.2"
